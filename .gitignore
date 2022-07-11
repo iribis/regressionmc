@@ -1,0 +1,16 @@
+*~
+src/build
+src/bin
+src/objs
+.sconsign.dblite
+build
+test
+*.sh
+
+.vscode/
+.idea/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-relwithdebinfo/
+venv/
+test/
