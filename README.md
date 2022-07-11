@@ -1,4 +1,7 @@
 # regressionmc
+
+Our version of PBRT brings a new class of estimator called cvls_direct (Control Variate using Least Square regression). We have implemented some polynomial bases as examples. 
+
 =======
 pbrt, Version 3
 ===============
